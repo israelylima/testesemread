@@ -9,7 +9,8 @@ if ($velocidade >= 10 and $velocidade <= 20 and
     (!$chovendo or $velocidade <= 12)) {
     echo "Corrida permitida.";
 } else {
-    echo "Corrida não permitida.";
+    echo "Corrida não permitidaaaaaaa.";
+    gklsgjlsjgjldsjgldjsgjldsjgldjsljgldsjgldjsl
 }
 
 ?>
